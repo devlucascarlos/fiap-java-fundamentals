@@ -1,0 +1,22 @@
+# Diretórios de build (Maven)
+target/
+pom.xml.tag
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+build/
+
+# IDE e Arquivos Temporários
+.idea/
+.vscode/
+*.iml
+*.iws
+*.iwd
+.classpath
+.project
+.settings
+/bin/
+
+# Logs e arquivos de cache
+*.log
+*.class
